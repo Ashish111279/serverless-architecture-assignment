@@ -1,0 +1,2 @@
+# serverless-architecture-assignment
+Assignment
